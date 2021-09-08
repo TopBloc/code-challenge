@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Clone this repo `git clone https://github.com/TopBloc/new-code-challenge.git`
+Clone this repo `git clone https://github.com/TopBloc/code-challenge.git`
 
 Run the frontend code within the `/client` folder:
 
