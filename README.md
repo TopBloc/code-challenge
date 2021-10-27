@@ -26,3 +26,6 @@ Open the `/server` folder as a Maven project within a Java IDE and run the proje
 git remote set-url --push origin https://github.com/<github_username>/<favorite_animal>
 ```
 3. Push your completed code challenge
+
+## Hints
+- 
